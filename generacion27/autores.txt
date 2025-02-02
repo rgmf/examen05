@@ -2,16 +2,16 @@ Pedro Salinas
 Adriano del Valle
 Manuel Altolaguirre
 Juan José Domenchina
-Federico García Lorca
+Federico García Lorca <----
 Emilio Prados
 Luis Cernuda
 Jorge Guillén
 Vicente Aleixandre
 Gerardo Diego
 Dámaso Alonso
-Rafael Alberti
+Rafael Alberti <----
 Pedro García Cabrera
-Miguel Hernández
+Miguel Hernández <----
 María Zambrano
 Concha Méndez-Cuesta
 María Teresa León
@@ -19,7 +19,7 @@ Ernestina de Champourcín
 Rosa Chacel
 Josefina de la Torre
 Luisa Carnés
-Rosario de Velasco
+Rosario de Velasco <----
 Marga Gil Roësset
 Margarita Manso
 Delhy Tejero
